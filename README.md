@@ -58,6 +58,8 @@ Feel free to use Tableau or Power BI to create your visualizations, although doi
 
 In the end, your instructor and coach (and strangers!) should be able to view a well-commented git commit history for each element in the git repository. Git commit whenever you make changes, aiming for at least twice a day! 
 
+For a full list of expectations for your project, check out the [Project 1 Rubric](https://docs.google.com/document/d/1dvIQQ-kdQi8wJVNvq17Q9-jV7-E6HnNH34vy0-931TQ/edit?usp=sharing).
+
 ## Suggestions
 
 - Spend some up-front time diving into data acquisition - what data are you trying to get, how are you going to get it, etc. - then test out your plan to make sure it's feasible before fully committing to it

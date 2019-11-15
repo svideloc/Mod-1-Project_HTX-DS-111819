@@ -43,7 +43,7 @@ Feel free to use Tableau or Power BI to create your visualizations, although doi
     - Jupyter notebooks with clean and commented code, so any independent party could replicate your analysis
     - The original data as it was acquired
     - The final joined and cleaned dataset that was used for analysis
-    - Either your slides or a link to your slides in the README
+    - Your presentation (or a link to your slides in the README is fine)
 
 - Give at least **two** actionable insights, answering questions like (but not limited to):
 

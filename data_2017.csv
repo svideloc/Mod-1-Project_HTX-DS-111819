@@ -1,0 +1,734 @@
+﻿rank,movie,release_date,distribution,genre,gross,tickets_sold
+1,Star Wars Ep. VIII: The Las…,12/15/2017,Walt Disney,Adventure,517218368,57660910
+2,Beauty and the Beast,3/17/2017,Walt Disney,Musical,504014165,56188870
+3,Wonder Woman,6/2/2017,Warner Bros.,Action,412563408,45993691
+4,Guardians of the Galaxy Vol 2,5/5/2017,Walt Disney,Action,389813101,43457424
+5,Spider-Man: Homecoming,7/7/2017,Sony Pictures,Action,334201140,37257652
+6,It,9/8/2017,Warner Bros.,Horror,327481748,36508556
+7,Thor: Ragnarok,11/3/2017,Walt Disney,Action,311225150,34696226
+8,Despicable Me 3,6/30/2017,Universal,Adventure,264624300,29501036
+9,Logan,3/3/2017,20th Century Fox,Action,226277068,25225983
+10,The Fate of the Furious,4/14/2017,Universal,Action,225764765,25168870
+11,Justice League,11/17/2017,Warner Bros.,Action,225546295,25144514
+12,Dunkirk,7/21/2017,Warner Bros.,Action,188373161,21000352
+13,Coco,11/22/2017,Walt Disney,Musical,179834199,20048405
+14,The Lego Batman Movie,2/10/2017,Warner Bros.,Adventure,175750384,19593131
+15,Get Out,2/24/2017,Universal,Horror,175484140,19563449
+16,The Boss Baby,3/31/2017,20th Century Fox,Adventure,175003033,19509814
+17,Pirates of the Caribbean: D…,5/26/2017,Walt Disney,Adventure,172558876,19237332
+18,Jumanji: Welcome to the Jungle,12/20/2017,Sony Pictures,Adventure,169002557,18840865
+19,Kong: Skull Island,3/10/2017,Warner Bros.,Adventure,168052812,18734985
+20,Hidden Figures,12/25/2016,20th Century Fox,Drama,167620331,18686770
+21,Cars 3,6/16/2017,Walt Disney,Adventure,152901115,17045832
+22,War for the Planet of the Apes,7/14/2017,20th Century Fox,Action,146880162,16374600
+23,Split,1/20/2017,Universal,Horror,138141585,15400399
+24,Transformers: The Last Knight,6/21/2017,Paramount Pictures,Action,130168683,14511558
+25,Wonder,11/17/2017,Lionsgate,Drama,121559294,13551761
+26,La La Land,12/9/2016,Lionsgate,Musical,116833190,13024881
+27,Girls Trip,7/21/2017,Universal,Comedy,115108515,12832610
+28,Fifty Shades Darker,2/10/2017,Universal,Drama,114434010,12757414
+29,Baby Driver,6/28/2017,Sony Pictures,Thriller/Suspense,107825862,12020720
+30,Rogue One: A Star Wars Story,12/16/2016,Walt Disney,Adventure,107189617,11949790
+31,Sing,12/21/2016,Universal,Adventure,103831225,11575387
+32,Annabelle: Creation,8/11/2017,Warner Bros.,Horror,102092201,11381516
+33,Daddy’s Home 2,11/10/2017,Paramount Pictures,Comedy,101791381,11347980
+34,Murder on the Orient Express,11/10/2017,20th Century Fox,Drama,100619624,11217349
+35,Kingsman: The Golden Circle,9/22/2017,20th Century Fox,Action,100227039,11173583
+36,John Wick: Chapter Two,2/10/2017,Lionsgate,Action,92029184,10259663
+37,Blade Runner 2049,10/6/2017,Warner Bros.,Thriller/Suspense,91654512,10217894
+38,The Emoji Movie,7/28/2017,Sony Pictures,Adventure,86089513,9597493
+39,Power Rangers,3/24/2017,Lionsgate,Action,85364450,9516661
+40,The Mummy,6/9/2017,Universal,Adventure,80101125,8929891
+41,The Hitman’s Bodyguard,8/18/2017,Lionsgate,Action,75468583,8413442
+42,Alien: Covenant,5/19/2017,20th Century Fox,Horror,74262031,8278933
+43,Captain Underpants: The Fir…,6/2/2017,20th Century Fox,Adventure,73921000,8240914
+44,A Bad Moms Christmas,11/1/2017,STX Entertainment,Comedy,71891988,8014714
+45,A Dog’s Purpose,1/27/2017,Universal,Drama,64321890,7170779
+46,Pitch Perfect 3,12/22/2017,Universal,Comedy,63300605,7056923
+47,The Lego Ninjago Movie,9/22/2017,Warner Bros.,Adventure,59281555,6608869
+48,Baywatch,5/25/2017,Paramount Pictures,Comedy,58060186,6472707
+49,The Shack,3/3/2017,Lionsgate,Drama,57386418,6397593
+50,Happy Death Day,10/13/2017,Universal,Horror,55683845,6207786
+51,Ferdinand,12/15/2017,20th Century Fox,Adventure,53546717,5969534
+52,Atomic Blonde,7/28/2017,Focus Features,Thriller/Suspense,51573925,5749601
+53,American Made,9/29/2017,Universal,Thriller/Suspense,51342000,5723745
+54,The Dark Tower,8/4/2017,Sony Pictures,Western,50701325,5652322
+55,The Greatest Showman,12/20/2017,20th Century Fox,Musical,49036718,5466747
+56,Tyler Perry’s Boo 2! A Made…,10/20/2017,Lionsgate,Comedy,47319572,5275314
+57,Lion,11/25/2016,Weinstein Co.,Drama,46435795,5176789
+58,Snatched,5/12/2017,20th Century Fox,Comedy,45852178,5111726
+59,The Great Wall,2/17/2017,Universal,Action,45157105,5034236
+60,Smurfs: The Lost Village,4/7/2017,Sony Pictures,Adventure,45020282,5018984
+61,Going in Style,4/7/2017,Warner Bros.,Comedy,45018541,5018789
+62,All Eyez on Me,6/16/2017,Lionsgate,Drama,44922302,5008060
+63,xXx: Return of Xander Cage,1/20/2017,Paramount Pictures,Action,44898413,5005397
+64,Passengers,12/21/2016,Sony Pictures,Thriller/Suspense,44634490,4975974
+65,47 Meters Down,6/16/2017,Entertainment Stu…,Horror,44307193,4939486
+66,The Big Sick,6/23/2017,Lionsgate,Romantic Comedy,42872467,4779539
+67,Ghost in the Shell,3/31/2017,Paramount Pictures,Action,40563557,4522135
+68,Valerian and the City of a …,7/21/2017,STX Entertainment,Adventure,40479370,4512750
+69,The Star,11/17/2017,Sony Pictures,Adventure,39963949,4455290
+70,King Arthur: Legend of the …,5/12/2017,Warner Bros.,Adventure,39175066,4367343
+71,Moana,11/23/2016,Walt Disney,Musical,38710930,4315599
+72,Jigsaw,10/27/2017,Lionsgate,Horror,38052832,4242233
+73,American Assassin,9/15/2017,Lionsgate,Thriller/Suspense,36249674,4041212
+74,The Foreigner,10/13/2017,STX Entertainment,Action,34393507,3834281
+75,"Everything, Everything",5/19/2017,Warner Bros.,Drama,34121140,3803918
+76,Wind River,8/4/2017,Weinstein Co.,Thriller/Suspense,33800859,3768212
+77,Geostorm,10/20/2017,Warner Bros.,Action,33578782,3743454
+78,Monster Trucks,1/13/2017,Paramount Pictures,Adventure,33370166,3720196
+79,Fist Fight,2/17/2017,Warner Bros.,Comedy,32187017,3588296
+80,How to Be a Latin Lover,4/28/2017,Lionsgate,Comedy,32149404,3584103
+81,Lady Bird,11/3/2017,A24,Drama,31432463,3504176
+82,Patriots Day,12/21/2016,Lionsgate,Thriller/Suspense,31257572,3484679
+83,Kidnap,8/4/2017,Aviron Pictures,Thriller/Suspense,30718107,3424538
+84,Underworld: Blood Wars,1/6/2017,Sony Pictures,Action,30353973,3383943
+85,The Mountain Between Us,10/6/2017,20th Century Fox,Thriller/Suspense,30348555,3383339
+86,Life,3/24/2017,Sony Pictures,Thriller/Suspense,30234022,3370571
+87,Why Him?,12/23/2016,20th Century Fox,Comedy,29689870,3309907
+88,The Nut Job 2: Nutty by Nature,8/11/2017,Open Road,Adventure,28370522,3162822
+89,Fences,12/16/2016,Paramount Pictures,Drama,27939289,3114747
+90,Rings,2/3/2017,Paramount Pictures,Horror,27793018,3098441
+91,Logan Lucky,8/18/2017,Bleecker Street,Comedy,27778642,3096838
+92,Home Again,9/8/2017,Open Road,Romantic Comedy,27020284,3012294
+93,Resident Evil: The Final Ch…,1/27/2017,Sony Pictures,Action,26844692,2992719
+94,The House,6/30/2017,Warner Bros.,Comedy,25584504,2852230
+95,Gifted,4/7/2017,Fox Searchlight,Drama,24801212,2764907
+96,Three Billboards Outside Eb…,11/10/2017,Fox Searchlight,Black Comedy,24164629,2693939
+97,The Bye Bye Man,1/13/2017,STX Entertainment,Thriller/Suspense,22395806,2496745
+98,Victoria and Abdul,9/22/2017,Focus Features,Drama,22233285,2478627
+99,Rough Night,6/16/2017,Sony Pictures,Black Comedy,22105643,2464397
+100,My Little Pony: The Movie,10/6/2017,Lionsgate,Adventure,21885107,2439811
+101,Leap!,8/25/2017,Weinstein Co.,Adventure,21858070,2436797
+102,Sleepless,1/13/2017,Open Road,Thriller/Suspense,20783704,2317024
+103,Diary of a Wimpy Kid: The L…,5/19/2017,20th Century Fox,Adventure,20738724,2312009
+104,The Circle,4/28/2017,STX Entertainment,Thriller/Suspense,20497844,2285155
+105,Manchester-by-the Sea,11/18/2016,Roadside Attractions,Drama,19224674,2143218
+106,Baahubali 2: The Conclusion,4/28/2017,Great India Films,Action,18985794,2116587
+107,CHiPS,3/24/2017,Warner Bros.,Action,18600152,2073596
+108,Assassin’s Creed,12/21/2016,20th Century Fox,Action,18232781,2032640
+109,Only the Brave,10/20/2017,Sony Pictures,Drama,18181288,2026899
+110,Darkest Hour,11/22/2017,Focus Features,Drama,18132857,2021500
+111,The Disaster Artist,12/1/2017,A24,Comedy,17861795,1991281
+112,mother!,9/15/2017,Paramount Pictures,Thriller/Suspense,17800004,1984392
+113,The Zookeeper’s Wife,3/31/2017,Focus Features,Drama,17445186,1944836
+114,The Glass Castle,8/11/2017,Lionsgate,Drama,17273059,1925647
+115,Downsizing,12/22/2017,Paramount Pictures,Comedy,17160674,1913119
+116,Flatliners,9/29/2017,Sony Pictures,Thriller/Suspense,16883115,1882176
+117,Detroit,8/4/2017,Annapurna Pictures,Drama,16790139,1871810
+118,The Shape of Water,12/1/2017,Fox Searchlight,Drama,15670177,1746954
+119,Moonlight,10/21/2016,A24,Drama,15245163,1699572
+120,The Case for Christ,4/7/2017,Pure Flix Enterta…,Drama,14678714,1636422
+121,Wish Upon,7/14/2017,Broad Green Pictures,Horror,14301505,1594370
+122,It Comes at Night,6/9/2017,A24,Horror,13985117,1559098
+123,Born in China,4/21/2017,Walt Disney,Documentary,13873211,1546623
+124,Megan Leavey,6/9/2017,Bleecker Street,Drama,13406304,1494571
+125,Father Figures,12/22/2017,Warner Bros.,Comedy,12885287,1436487
+126,The Founder,12/31/2016,Weinstein Co.,Drama,12786053,1425424
+127,All the Money in the World,12/25/2017,Sony Pictures,Thriller/Suspense,12712380,1417211
+128,Battle of the Sexes,9/22/2017,Fox Searchlight,Drama,12638526,1408977
+129,Before I Fall,3/3/2017,Open Road,Drama,12241072,1364668
+130,Night of the Living Dead,10/1/1968,Walter Reade Orga…,Horror,12087064,1347498
+131,"Roman J. Israel, Esq.",11/17/2017,Sony Pictures,Drama,11851274,1321212
+132,Unforgettable,4/21/2017,Warner Bros.,Thriller/Suspense,11368012,1267337
+133,Fantastic Beasts and Where …,11/18/2016,Warner Bros.,Adventure,11362002,1266667
+134,The Beguiled,6/23/2017,Focus Features,Western,10576669,1179115
+135,Live by Night,12/25/2016,Warner Bros.,Drama,10283585,1146442
+136,The Belko Experiment,3/17/2017,BH Tilt,Horror,10166820,1133424
+137,Thank You for Your Service,10/27/2017,Universal,Drama,9479390,1056788
+138,Marshall,10/13/2017,Open Road,Drama,9468318,1055554
+139,Rock Dog,2/24/2017,Lionsgate,Adventure,9420546,1050228
+140,The Lost City of Z,4/14/2017,Bleecker Street,Action,8574339,955890
+141,Arrival,11/11/2016,Paramount Pictures,Drama,8354449,931376
+142,The Promise,4/21/2017,Open Road,Drama,8224288,916865
+143,A Cure for Wellness,2/17/2017,20th Century Fox,Thriller/Suspense,8106986,903789
+144,The Space Between Us,2/3/2017,STX Entertainment,Drama,7885294,879074
+145,Jackie,12/2/2016,Fox Searchlight,Drama,7490669,835080
+146,Gold,1/27/2017,Weinstein Co.,Drama,7227038,805690
+147,Let There Be Light,10/27/2017,Atlas Distribution,Drama,7210068,803797
+148,I Am Not Your Negro,2/3/2017,Magnolia Pictures,Documentary,7123919,794193
+149,Beatriz at Dinner,6/9/2017,Roadside Attractions,Drama,7115854,793294
+150,Birth of the Dragon,8/25/2017,BH Tilt,Action,6901965,769449
+151,Silence,12/23/2016,Paramount Pictures,Drama,6789497,756911
+152,Collateral Beauty,12/16/2016,Warner Bros.,Drama,6673543,743985
+153,The Snowman,10/20/2017,Universal,Thriller/Suspense,6670765,743675
+154,Same Kind of Different as Me,10/20/2017,Pure Flix Enterta…,Drama,6394006,712821
+155,Loving Vincent,9/22/2017,Good Deed Enterta…,Drama,6269689,698961
+156,Lowriders,5/12/2017,BH Tilt,Drama,6179955,688958
+157,Maudie,6/16/2017,Sony Pictures Cla…,Drama,6170998,687959
+158,Just Getting Started,12/8/2017,Broad Green Pictures,Comedy,6036997,673020
+159,All Saints,8/25/2017,Sony Pictures,Drama,5802208,646846
+160,Suburbicon,10/27/2017,Paramount Pictures,Black Comedy,5775178,643832
+161,Paris Can Wait,5/12/2017,Sony Pictures Cla…,Romantic Comedy,5608745,625278
+162,The Man Who Invented Christmas,11/22/2017,Bleecker Street,Adventure,5575759,621600
+163,20th Century Women,12/25/2016,A24,Drama,5486187,611615
+164,Molly’s Game,12/25/2017,STX Entertainment,Drama,5377480,599496
+165,The Florida Project,10/6/2017,A24,Drama,5297299,590557
+166,Your Name,4/7/2017,FUNimation,Drama,5000181,557433
+167,Call Me by Your Name,11/24/2017,Sony Pictures Cla…,Drama,4906869,547031
+168,Tiger Zinda Hai,12/22/2017,Yash Raj Films,Action,4572231,509724
+169,The Book of Henry,6/16/2017,Focus Features,Drama,4288104,478049
+170,Stronger,9/22/2017,Roadside Attractions,Drama,4211129,469468
+171,The Hero,6/9/2017,The Orchard,Drama,4077333,454552
+172,Sleight,4/28/2017,High Top Releasing,Action,3930990,438237
+173,A United Kingdom,2/10/2017,Fox Searchlight,Drama,3902185,435026
+174,Norman: The Moderate Rise a…,4/14/2017,Sony Pictures Cla…,Drama,3814868,425291
+175,Friend Request,9/22/2017,Entertainment Stu…,Thriller/Suspense,3759078,419072
+176,A Monster Calls,12/23/2016,Focus Features,Drama,3740823,417037
+177,Office Christmas Party,12/9/2016,Paramount Pictures,Comedy,3630209,404705
+178,Table 19,3/3/2017,Fox Searchlight,Comedy,3614896,402998
+179,Their Finest,4/7/2017,STX Entertainment,Romantic Comedy,3603484,401726
+180,Phoenix Forgotten,4/21/2017,Entertainment Stu…,Thriller/Suspense,3600146,401354
+181,Trolls,11/4/2016,20th Century Fox,Adventure,3576772,398748
+182,An Inconvenient Sequel,7/28/2017,Paramount Vantage,Documentary,3496795,389832
+183,Til Death Do Us Part,9/29/2017,Novus Content,Thriller/Suspense,3424454,381767
+184,Colossal,4/7/2017,Neon,Drama,3194575,356139
+185,Dangal,12/21/2016,UTV Communications,Action,3165967,352950
+186,Close Encounters of the Thi…,11/16/1977,Columbia,Adventure,3100479,345650
+187,Ingrid Goes West,8/11/2017,Neon,Black Comedy,3021133,336804
+188,2017 Oscar Shorts,2/10/2017,ShortsHD,Multiple Genres,2835355,316093
+189,KEDi,2/10/2017,Oscilloscope Pict…,Documentary,2834262,315971
+190,Wolf Warrior 2,7/28/2017,The H Collective,Action,2721100,303355
+191,My Cousin Rachel,6/9/2017,Fox Searchlight,Drama,2716368,302828
+192,Mayweather vs. McGregor,8/26/2017,Fathom Events,Concert/Perfor…,2620183,292105
+193,Hacksaw Ridge,11/4/2016,Lionsgate,Drama,2603050,290195
+194,A Question of Faith,9/29/2017,Pure Flix Enterta…,Drama,2587072,288413
+195,Is Genesis History?,2/23/2017,Fathom Events,Documentary,2570355,286550
+196,Hazlo Como Hombre,9/1/2017,Lionsgate,Comedy,2534252,282525
+197,Doctor Strange,11/4/2016,Walt Disney,Action,2534130,282511
+198,LBJ,11/3/2017,Electric Entertai…,Drama,2468683,275215
+199,Tulip Fever,9/1/2017,Weinstein Co.,Drama,2455635,273761
+200,The Salesman,1/27/2017,Cohen Media Group,Drama,2402067,267788
+201,T2: Trainspotting,3/17/2017,Sony Pictures,Drama,2402004,267782
+202,Raees,1/25/2017,Zee Studios,Action,2369469,264154
+203,"I, Tonya",12/8/2017,Neon,Black Comedy,2351336,262133
+204,The Resurrection of Gavin S…,1/20/2017,High Top Releasing,Comedy,2303792,256832
+205,The Killing of a Sacred Deer,10/20/2017,A24,Horror,2291900,255507
+206,Collide,2/24/2017,Open Road,Action,2280004,254181
+207,Jeepers Creepers 3,9/26/2017,Fathom Events,Horror,2235162,249181
+208,The Lovers,5/5/2017,A24,Romantic Comedy,2194521,244651
+209,Un Padre No Tan Padre,1/27/2017,Lionsgate,Comedy,2156047,240361
+210,Brad’s Status,9/15/2017,Annapurna Pictures,Comedy,2133158,237810
+211,Paterson,12/28/2016,Bleecker Street,Comedy,2040598,227491
+212,Good Time,8/11/2017,A24,Drama,2026498,225919
+213,Badrinath Ki Dulhania,3/10/2017,FIP,Comedy,1993259,222214
+214,Everybody Loves Somebody,2/17/2017,Lionsgate,Romantic Comedy,1915789,213577
+215,A Quiet Passion,4/14/2017,Music Box Films,Drama,1865396,207959
+216,The Wall,5/12/2017,Roadside Attractions,Thriller/Suspense,1803064,201010
+217,Free Fire,4/21/2017,A24,Action,1799322,200593
+218,The Last Word,3/3/2017,Bleecker Street,Drama,1779620,198396
+219,The Post,12/22/2017,20th Century Fox,Drama,1760121,196223
+220,Goodbye Christopher Robin,10/13/2017,Fox Searchlight,Drama,1735251,193451
+221,Menashe,7/28/2017,A24,Drama,1702996,189854
+222,Slamma Jamma,3/24/2017,Riverrain,Drama,1687000,188071
+223,The Comedian,2/3/2017,Sony Pictures Cla…,Comedy,1658706,184917
+224,Jolly LLB 2,2/10/2017,FIP,Black Comedy,1654254,184421
+225,The Little Hours,6/30/2017,Gunpowder & Sky,Black Comedy,1647175,183631
+226,Terminator 2: Judgment Day,7/2/1991,Sony Pictures,Action,1605359,178969
+227,A Ghost Story,7/7/2017,A24,Drama,1594798,177792
+228,Professor Marston & The Won…,10/13/2017,Annapurna Pictures,Drama,1585362,176740
+229,Youth,12/15/2017,China Lion Film D…,Drama,1579715,176110
+230,The Stray,10/6/2017,Purdie Distribution,Multiple Genres,1579440,176080
+231,A Taxi Driver,8/11/2017,Well Go USA,Drama,1527829,170326
+232,Inhumans,9/1/2017,,Action,1521787,169652
+233,Jane,10/20/2017,Abramorama Films,Documentary,1502589,167512
+234,Judwaa 2,9/29/2017,FIP,Action,1431255,159560
+235,Elle,11/11/2016,Sony Pictures Cla…,Drama,1423285,158671
+236,The Wedding Plan,5/12/2017,Roadside Attractions,Action,1412404,157458
+237,Toni Erdmann,12/25/2016,Sony Pictures Cla…,Comedy,1382067,154076
+238,The Dinner,5/5/2017,The Orchard,Drama,1323312,147526
+239,Wonder Wheel,12/1/2017,Amazon Studios,Drama,1306606,145663
+240,Personal Shopper,3/10/2017,IFC Films,Thriller/Suspense,1305195,145506
+241,My Friend Dahmer,11/3/2017,FilmRise,Drama,1296639,144552
+242,Julieta,12/21/2016,Sony Pictures Cla…,Drama,1286485,143420
+243,Jab Harry Met Sejal,8/4/2017,Red Chillies Ente…,Romantic Comedy,1284740,143226
+244,Churchill,6/2/2017,Cohen Media Group,Drama,1279681,142662
+245,The Sense of an Ending,3/10/2017,CBS Films,Drama,1274420,142075
+246,3 Idiotas,6/2/2017,Lionsgate,Comedy,1249233,139267
+247,The Square,10/27/2017,Magnolia Pictures,Drama,1223426,136390
+248,The Women’s Balcony,3/3/2017,Dada Films,Comedy,1200885,133877
+249,The Trip to Spain,8/11/2017,IFC Films,Comedy,1157604,129052
+250,Step,8/4/2017,Fox Searchlight,Documentary,1146292,127792
+251,Lady Macbeth,7/14/2017,Roadside Attractions,Drama,1129408,125909
+252,Viceroy’s House,9/1/2017,IFC Films,Drama,1105717,123268
+253,The Battleship Island,8/4/2017,CJ Entertainment,Drama,1104957,123183
+254,The Eagle Huntress,11/2/2016,Sony Pictures Cla…,Documentary,1079051,120295
+255,Wonderstruck,10/20/2017,Roadside Attractions,Drama,1033632,115232
+256,Columbus,8/4/2017,Superlative Films,Drama,1017107,113389
+257,Golmaal Again,10/20/2017,Reliance Entertai…,Musical,1013893,113031
+258,Last Flag Flying,11/3/2017,Amazon Studios,Comedy,965481,107634
+259,Lucky,9/29/2017,Magnolia Pictures,Drama,955925,106569
+260,Landline,7/21/2017,Amazon Studios,Comedy,940854,104888
+261,Tubelight,6/23/2017,Yash Raj Films,Adventure,930058,103685
+262,The Red Turtle,1/20/2017,Sony Pictures Cla…,Adventure,920057,102570
+263,Frantz,3/15/2017,Music Box Films,Drama,880883,98203
+264,Journey to the West: The De…,2/3/2017,Sony Pictures,Action,880346,98143
+265,The Polar Express,11/10/2004,Warner Bros.,Adventure,876864,97755
+266,Jagga Jasoos,7/14/2017,UTV Communications,Adventure,861740,96069
+267,Patti Cake$,8/18/2017,Fox Searchlight,Comedy,800148,89203
+268,Neruda,12/16/2016,The Orchard,Drama,798648,89035
+269,Mark Felt: The Man Who Brou…,9/29/2017,Sony Pictures Cla…,Thriller/Suspense,768646,85690
+270,Mubarakan,7/28/2017,Sony Pictures,Romantic Comedy,758868,84601
+271,May it Last: A Portrait of …,9/12/2017,Oscilloscope Pict…,Documentary,725286,80856
+272,Toilet: Ek Prem Katha,8/11/2017,Reliance Entertai…,Comedy,709420,79088
+273,The Exception,6/2/2017,A24,Drama,708972,79038
+274,Maurice,1/1/1987,,Drama,702674,78336
+275,Titanic,12/19/1997,Paramount Pictures,Thriller/Suspense,691642,77106
+276,Lost in Paris,6/16/2017,Oscilloscope Pict…,Drama,691597,77101
+277,The Devotion of Suspect X,3/31/2017,China Lion Film D…,Thriller/Suspense,686435,76525
+278,Wilson,3/24/2017,Fox Searchlight,Comedy,653951,72904
+279,Along With The Gods: The Tw…,12/22/2017,Well Go USA,Action,641875,71557
+280,The Only Living Boy in New …,8/11/2017,Roadside Attractions,Drama,624332,69602
+281,"Faces, Places",10/6/2017,Cohen Media Group,Documentary,604636,67406
+282,The Midwife,7/21/2017,Music Box Films,Thriller/Suspense,603582,67288
+283,Battle of Memories,4/28/2017,China Lion Film D…,Thriller/Suspense,587470,65492
+284,Master,1/6/2017,CJ Entertainment,Action,584298,65139
+285,Tommy’s Honour,4/14/2017,Roadside Attractions,Drama,569306,63467
+286,Novitiate,10/27/2017,Sony Pictures Cla…,Drama,567050,63216
+287,Bitter Harvest,2/24/2017,Roadside Attractions,Drama,557241,62122
+288,Dolores,9/1/2017,PBS Distribution,Documentary,549671,61278
+289,Human Flow,10/13/2017,Amazon Studios,Documentary,527845,58845
+290,Phantom Thread,12/25/2017,Focus Features,Drama,527840,58845
+291,Under the Sea 3D,2/13/2009,Warner Bros.,Documentary,525011,58530
+292,Fairy Tail: Dragon Cry,8/14/2017,FUNimation,Action,519461,57910
+293,Brigsby Bear,7/28/2017,Sony Pictures Cla…,Comedy,515765,57498
+294,Raw,3/10/2017,Focus World,Horror,514870,57399
+295,Shubh Mangal Saavdhan,9/1/2017,Eros Entertainment,Romantic Comedy,511875,57065
+296,Born to be Wild 3D,4/8/2011,Warner Bros.,Documentary,504596,56253
+297,Allied,11/23/2016,Paramount Pictures,Drama,499123,55643
+298,Breathe,10/13/2017,Bleecker Street,Drama,489322,54550
+299,Once Upon a Time,8/11/2017,Well Go USA,Drama,485728,54150
+300,Nocturnal Animals,11/18/2016,Focus Features,Thriller/Suspense,478100,53299
+301,Confidential Assignment,2/3/2017,CJ Entertainment,Action,475618,53023
+302,Beach Rats,8/25/2017,Neon,Drama,471286,52540
+303,Duckweed,2/10/2017,China Lion Film D…,Drama,469706,52364
+304,Phillauri,3/24/2017,FIP,Black Comedy,467596,52129
+305,Chasing the Dragon,9/29/2017,Well Go USA,Action,456854,50931
+306,Song to Song,3/17/2017,Broad Green Pictures,Drama,443684,49463
+307,Land of Mine,2/10/2017,Sony Pictures Cla…,Thriller/Suspense,434640,48454
+308,"Gentleman: Sundar, Susheel,…",8/25/2017,FIP,Action,410055,45714
+309,"Love, Kennedy",6/2/2017,Purdie Distribution,Drama,407871,45470
+310,Chasing Trane: The John Col…,4/14/2017,Abramorama Films,Documentary,406284,45293
+311,The Accountant,10/14/2016,Warner Bros.,Thriller/Suspense,403349,44966
+312,The Rocky Horror Picture Show,9/26/1975,20th Century Fox,Musical,400000,44593
+313,Rebel in the Rye,9/8/2017,IFC Films,Drama,378294,42173
+314,Kung Fu Yoga,1/27/2017,Well Go USA,Action,362657,40429
+315,Ok Jaanu,1/13/2017,FIP,Drama,355922,39679
+316,Long Strange Trip: The Unto…,5/26/2017,Abramorama Films,Documentary,351957,39237
+317,Pearl Jam: Let’s Play Two,9/29/2017,Abramorama Films,Concert/Perfor…,348832,38888
+318,This Is Not What I Expected,5/5/2017,Well Go USA,Comedy,337670,37644
+319,Letters from Baghdad,6/2/2017,Vitagraph Films,Documentary,336223,37483
+320,Island of Lemurs: Madagascar,4/4/2014,Warner Bros.,Documentary,334245,37263
+321,Chuck,5/5/2017,IFC Films,Action,322005,35897
+322,Citizen Jane: Battle for th…,4/21/2017,IFC Films,Documentary,313411,34939
+323,Obit,4/26/2017,Kino Lorber,Documentary,312777,34869
+324,City of Rock,10/6/2017,Well Go USA,Musical,312537,34842
+325,My Life as a Zucchini,2/24/2017,GKIDS,Adventure,309768,34533
+326,Tom of Finland,10/13/2017,Kino Lorber,Drama,308887,34435
+327,God’s Own Country,10/25/2017,Samuel Goldwyn Films,Drama,305219,34026
+328,Ittefaq,11/3/2017,Red Chillies Ente…,Thriller/Suspense,298032,33225
+329,Miss Peregrine’s Home for P…,9/30/2016,20th Century Fox,Adventure,297697,33188
+330,Buddies in India,1/27/2017,China Lion Film D…,Action,292662,32626
+331,I Do…Until I Don’t,9/1/2017,Film Arcade,Comedy,276608,30837
+332,After the Storm,3/17/2017,Film Movement,Drama,272132,30338
+333,Stalker,5/5/2017,Janus Films,Drama,268101,29888
+334,Storks,9/23/2016,Warner Bros.,Adventure,264428,29479
+335,Wakefield,5/19/2017,IFC Films,Drama,262599,29275
+336,"I, Daniel Blake",6/2/2017,IFC Films,Drama,260354,29024
+337,Cézanne and I,3/31/2017,Magnolia Pictures,Drama,257597,28717
+338,Dean,6/2/2017,CBS Films,Comedy,254536,28376
+339,Gook,8/18/2017,Samuel Goldwyn Films,Drama,250130,27885
+340,Band Aid,6/2/2017,IFC Films,Comedy,248370,27688
+341,1945,11/1/2017,Menemsha Entertai…,Drama,243701,27168
+342,The Swindlers,12/1/2017,Well Go USA,Thriller/Suspense,241916,26969
+343,The Ottoman Lieutenant,3/10/2017,Paladin,Drama,240978,26864
+344,Crown Heights,8/18/2017,IFC Films,Drama,238553,26594
+345,Jeremiah Tower: The Last Ma…,4/21/2017,The Orchard,Documentary,228153,25435
+346,Loving,11/4/2016,Focus Features,Drama,227626,25376
+347,American Satan,10/13/2017,AMC Independent,Thriller/Suspense,226232,25220
+348,Rumble: The Indians who Roc…,7/26/2017,Kino Lorber,Documentary,225177,25103
+349,The Breadwinner,11/17/2017,GKIDS,Drama,220307,24560
+350,Railroad Tigers,1/6/2017,Well Go USA,Action,218044,24308
+351,All I See is You,10/27/2017,Open Road,Thriller/Suspense,217644,24263
+352,The Adventurers,8/18/2017,Well Go USA,Thriller/Suspense,216556,24142
+353,Truman,4/7/2017,FilmRise,Comedy,210840,23505
+354,Donnie Darko,6/4/2004,Newmarket Films,Drama,209484,23353
+355,The Prison,3/31/2017,Well Go USA,Action,207481,23130
+356,California Typewriter,8/18/2017,Gravitas Ventures,Documentary,200379,22338
+357,Risk,5/5/2017,Neon,Documentary,200219,22320
+358,Spark: A Space Tail,4/14/2017,Open Road,Adventure,196458,21901
+359,One Piece Film: Gold,1/10/2017,FUNimation,Action,190859,21277
+360,Whose Streets?,8/11/2017,Magnolia Pictures,Documentary,182799,20378
+361,Ex Files 3: Return of the Exes,12/29/2017,China Lion Film D…,Comedy,180920,20169
+362,The Bad Batch,6/23/2017,Neon,Horror,180851,20161
+363,Marjorie Prime,8/18/2017,FilmRise,Multiple Genres,180608,20134
+364,Hubble 3D,3/19/2010,Warner Bros.,Documentary,180201,20089
+365,Past Life,6/2/2017,Samuel Goldwyn Films,Thriller/Suspense,180099,20077
+366,Take Every Wave: The Life o…,9/29/2017,IFC Films,Documentary,176160,19638
+367,Graduation,4/7/2017,IFC Films,Drama,175975,19618
+368,Champion,5/19/2017,ArtAffects,Drama,175232,19535
+369,Mr. Gaga,2/1/2017,Abramorama Films,Documentary,173994,19397
+370,43719,9/8/2017,Atlas Distribution,Drama,172000,19175
+371,David Lynch: The Art Life,3/31/2017,Janus Films,Documentary,171419,19110
+372,Valley of Bones,9/1/2017,Smith Global Media,Western,166552,18567
+373,Polina,8/25/2017,Oscilloscope Pict…,Drama,165203,18417
+374,The Journey,6/16/2017,IFC Films,Drama,164994,18393
+375,Manifesto,5/10/2017,FilmRise,Drama,161101,17959
+376,Bombshell: The Hedy Lamarr …,11/24/2017,Zeitgeist,Documentary,156011,17392
+377,Three Generations,5/5/2017,Weinstein Co.,Drama,155936,17384
+378,13 Minutes,6/30/2017,Sony Pictures Cla…,Drama,155897,17379
+379,Ex Libris: The New York Pub…,9/15/2017,Zipporah,Documentary,151356,16873
+380,The Void,4/7/2017,Screen Media Films,Horror,151042,16838
+381,The Unknown Girl,9/8/2017,IFC Films,Drama,150579,16786
+382,Blade of the Immortal,11/3/2017,Magnolia Pictures,Action,150532,16781
+383,Restless Creature: Wendy Wh…,5/23/2017,Abramorama Films,Documentary,147780,16474
+384,The Last Dalai Lama?,7/7/2017,Matson,Documentary,145513,16222
+385,Chavela,10/4/2017,Music Box Films,Documentary,143454,15992
+386,A Man Called Ove,9/30/2016,Music Box Films,Comedy,143309,15976
+387,The Other Side of Hope,12/1/2017,Janus Films,Comedy,140581,15672
+388,Things to Come,12/2/2016,IFC Films,Drama,140332,15644
+389,The Fortress,10/6/2017,CJ Entertainment,Drama,138486,15438
+390,"Hare Krishna! The Mantra, T…",6/16/2017,Abramorama Films,Documentary,133006,14827
+391,Dawson City: Frozen Time,6/9/2017,Kino Lorber,Documentary,132369,14756
+392,Thelma,11/10/2017,The Orchard,Drama,132011,14716
+393,Moka,6/14/2017,Film Movement,Drama,129547,14442
+394,City of Ghosts,7/7/2017,IFC Films,Documentary,128015,14271
+395,Marie Curie: The Courage of…,6/30/2017,Society Films,Drama,127993,14269
+396,The Handmaiden,10/21/2016,Magnolia Pictures,Drama,126503,14102
+397,The B-Side,6/30/2017,Neon,Documentary,125227,13960
+398,The Thousand Faces of Dunjia,12/15/2017,Well Go USA,Action,124187,13844
+399,Buena Vista Social Club - A…,5/26/2017,Broad Green Pictures,Documentary,123445,13761
+400,Jack Reacher: Never Go Back,10/21/2016,Paramount Pictures,Action,122561,13663
+401,Inferno,10/28/2016,Sony Pictures,Thriller/Suspense,121923,13592
+402,Explosion,11/24/2017,China Lion Film D…,Action,118384,13197
+403,Big Sonia,11/17/2017,Argot Pictures,Documentary,113604,12664
+404,"We Love You, Sally Carmichael",8/4/2017,Purdie Distribution,Romantic Comedy,113435,12646
+405,Abacus: Small Enough to Jail,5/19/2017,PBS Distribution,Documentary,113279,12628
+406,The King’s Choice,9/22/2017,Samuel Goldwyn Films,Drama,113231,12623
+407,Slack Bay,4/21/2017,Kino Lorber,Comedy,112481,12539
+408,Our Time Will Come,7/7/2017,China Lion Film D…,Drama,111584,12439
+409,The Terkel in Trouble,3/26/2010,,Adventure,110543,12323
+410,Reset,6/30/2017,Well Go USA,Action,108970,12148
+411,Like Crazy,5/5/2017,Strand,Comedy,107362,11969
+412,Walking Out,10/4/2017,IFC Films,Thriller/Suspense,102394,11415
+413,The Lure,2/1/2017,Janus Films,Drama,101657,11332
+414,Tim Timmerman: Hope of America,3/3/2017,Purdie Distribution,Comedy,97787,10901
+415,I Called Him Morgan,3/24/2017,FilmRise,Documentary,97711,10893
+416,Poster Boys,9/8/2017,Sony Pictures,Comedy,97049,10819
+417,The Mayor,4/28/2017,Well Go USA,Drama,96777,10788
+418,Aida’s Secrets,10/20/2017,Music Box Films,Documentary,95386,10633
+419,Keep Watching,10/31/2017,Sony Pictures,Thriller/Suspense,94178,10499
+420,The Fencer,7/21/2017,CFI,Drama,94157,10496
+421,Sully,9/9/2016,Warner Bros.,Drama,93698,10446
+422,BPM (Beats per Minute),10/20/2017,The Orchard,Drama,92627,10326
+423,Memoir of a Murderer,9/8/2017,Well Go USA,Thriller/Suspense,91335,10182
+424,The King’s Case Note,4/28/2017,CJ Entertainment,Comedy,90899,10133
+425,Dina,10/6/2017,The Orchard,Documentary,90491,10088
+426,Because of Grácia,9/15/2017,ArtAffects,Drama,90388,10076
+427,Hostiles,12/22/2017,Entertainment Stu…,Western,85745,9559
+428,Warriors of the Dawn,6/16/2017,FIP,Drama,84532,9424
+429,Chapter & Verse,2/3/2017,Paladin,Drama,84147,9380
+430,Earth: One Amazing Day,10/6/2017,Atlas Distribution,Documentary,81345,9068
+431,The Nile Hilton Incident,8/11/2017,Strand,Thriller/Suspense,80953,9024
+432,Ocean Waves,12/28/2016,GKIDS,Drama,78648,8767
+433,Stefan Zweig: Farewell to E…,5/12/2017,First Run Features,Drama,78373,8737
+434,Pop Aye,6/28/2017,Kino Lorber,Drama,77895,8683
+435,Te Ata,9/27/2017,Paladin,Drama,73236,8164
+436,Buster’s Mal Heart,4/28/2017,Well Go USA,Thriller/Suspense,73121,8151
+437,Turn it Around: The Story o…,5/31/2017,Abramorama Films,Documentary,69787,7780
+438,To the Arctic 3D,4/20/2012,Warner Bros.,Documentary,69713,7771
+439,Bill Nye: Science Guy,10/27/2017,PBS Distribution,Documentary,69258,7721
+440,My Entire High School Sinki…,4/14/2017,GKIDS,Adventure,68883,7679
+441,Alive and Kicking,4/7/2017,Magnolia Pictures,Documentary,68485,7634
+442,The Love Witch,11/11/2016,Oscilloscope Pict…,Comedy,68147,7597
+443,Architects of Denial,10/6/2017,Dada Films,Documentary,65424,7293
+444,Munna Michael,7/21/2017,Eros Entertainment,Action,64949,7240
+445,The Teacher,8/30/2017,Film Movement,Drama,64437,7183
+446,Happy End,12/22/2017,Sony Pictures Cla…,Drama,63109,7035
+447,The Tiger Hunter,9/22/2017,Shout! Factory,Comedy,62398,6956
+448,Almost Christmas,11/11/2016,Universal,Drama,62380,6954
+449,Tragedy Girls,10/20/2017,Gunpowder & Sky,Comedy,61899,6900
+450,Donald Cried,3/3/2017,The Orchard,Comedy,61406,6845
+451,Worlds Apart,1/13/2017,Cinema Libre,Drama,60298,6722
+452,Manolo: The Boy Who Made Sh…,9/15/2017,Music Box Films,Documentary,60056,6695
+453,Bang! The Bert Berns Story,4/26/2017,Abramorama Films,Documentary,59300,6610
+454,The Force,9/15/2017,Kino Lorber,Documentary,58154,6483
+455,The Boom,6/16/2017,Rialto Pictures,Comedy,57308,6388
+456,Bad Santa 2,11/23/2016,Broad Green Pictures,Comedy,56403,6287
+457,Fire at Sea,10/21/2016,Kino Lorber,Documentary,54514,6077
+458,God of War,6/2/2017,Well Go USA,Action,53496,5963
+459,The Paris Opera,10/18/2017,Film Movement,Documentary,52716,5876
+460,The Divine Order,10/27/2017,Kino Lorber,Drama,52480,5850
+461,My Journey Through French C…,6/23/2017,Cohen Media Group,Documentary,52058,5803
+462,The Brand New Testament,12/9/2016,Music Box Films,Comedy,51982,5795
+463,Beautiful Accident,6/9/2017,China Lion Film D…,Drama,51766,5771
+464,The Ornithologist,6/23/2017,Strand,Drama,50511,5631
+465,Keep Quiet,2/17/2017,Kino Lorber,Documentary,50454,5624
+466,From the Land of the Moon,7/28/2017,IFC Films,Drama,48677,5426
+467,Person to Person,7/28/2017,Magnolia Pictures,Drama,48499,5406
+468,Napping Princess,9/8/2017,GKIDS,Drama,48198,5373
+469,Window Horses,3/10/2017,Mongrel Media,Adventure,48105,5362
+470,Saving Banksy,1/13/2017,Parade Deck Films,Documentary,47965,5347
+471,Tampopo,10/21/2016,Janus Films,Comedy,46784,5215
+472,So B. It,10/6/2017,Good Deed Enterta…,Drama,46006,5128
+473,Film Stars Don’t Die in Liv…,12/29/2017,Sony Pictures Cla…,Drama,45192,5038
+474,The Death of Louis XIV,3/31/2017,Cinema Guild,Drama,43635,4864
+475,Tomorrow,4/14/2017,Under the Milky Way,Documentary,43471,4846
+476,Bluebeard,3/17/2017,Well Go USA,Drama,43144,4809
+477,Hermia & Helena,5/26/2017,Kino Lorber,Comedy,43132,4808
+478,Woodshock,9/22/2017,A24,Drama,42469,4734
+479,Some Like It Hot,1/13/2017,China Lion Film D…,Romantic Comedy,42230,4707
+480,One Week and a Day,4/28/2017,Oscilloscope Pict…,Drama,41614,4639
+481,Panic (1947) (Re-Release),1/20/2017,Rialto Pictures,Drama,41569,4634
+482,Seasons,11/11/2016,Music Box Films,Documentary,40337,4496
+483,Unrest,9/22/2017,Shella Films,Documentary,40081,4468
+484,The Commune,5/19/2017,Magnolia Pictures,Drama,38737,4318
+485,I am the Blues,7/12/2017,Film Movement,Documentary,37849,4219
+486,78/52: Hitchcock’s Shower S…,10/13/2017,IFC Films,Documentary,37664,4198
+487,A Woman’s Life,5/5/2017,Kino Lorber,Drama,37626,4194
+488,School Life,9/8/2017,Magnolia Pictures,Documentary,37381,4167
+489,"A Woman, A Part",3/22/2017,Monument Releasing,Drama,36838,4106
+490,Growing up Smith,2/3/2017,Good Deed Enterta…,Comedy,35312,3936
+491,Sophie and the Rising Sun,1/20/2017,Monterey Media,Drama,34630,3860
+492,Rat Film,9/15/2017,Cinema Guild,Documentary,33568,3742
+493,Afterimage,5/19/2017,Film Movement,Drama,33443,3728
+494,Love & Taxes,3/3/2017,Abramorama Films,Romantic Comedy,33150,3695
+495,Alone in Berlin,1/13/2017,IFC Films,Drama,33125,3692
+496,Super Dark Times,9/29/2017,The Orchard,Thriller/Suspense,33109,3691
+497,Sidemen: Long Road to Glory,8/18/2017,Abramorama Films,Documentary,31399,3500
+498,7 Witches,4/21/2017,Indican Pictures,Horror,31100,3467
+499,The Hole,6/28/2017,Rialto Pictures,Thriller/Suspense,30973,3452
+500,XX,2/17/2017,Magnolia Pictures,Horror,30911,3446
+501,On the Beach at Night Alone,11/17/2017,Cinema Guild,Drama,30683,3420
+502,The Son of Joseph,1/13/2017,Kino Lorber,Drama,30588,3410
+503,No Greater Love,11/10/2017,Atlas Distribution,Documentary,30531,3403
+504,Dealt,10/20/2017,IFC Films,Documentary,30414,3390
+505,Deep Sea 3-D,3/3/2006,Warner Bros.,Documentary,30203,3367
+506,The Wound,8/16/2017,Kino Lorber,Drama,29963,3340
+507,Uncertain,3/9/2017,Lucid Inc,Documentary,29736,3315
+508,Quest,12/1/2017,First Run Features,Documentary,29591,3298
+509,Lemon,8/18/2017,Magnolia Pictures,Comedy,29258,3261
+510,False Confessions,7/14/2017,Big World Pictures,Drama,29245,3260
+511,In Pursuit of Silence,6/23/2017,Cinema Guild,Documentary,29050,3238
+512,Berlin Syndrome,5/5/2017,Vertical Entertai…,Thriller/Suspense,28660,3195
+513,Wait For Your Laugh,11/3/2017,Vitagraph Films,Documentary,28548,3182
+514,Brimstone & Glory,10/27/2017,Oscilloscope Pict…,Documentary,28023,3124
+515,Radio Dreams,5/19/2017,Matson,Comedy,27836,3103
+516,The Villainess,8/25/2017,Well Go USA,Action,27741,3092
+517,The Crime of Monsieur Lange,11/17/2017,Rialto Pictures,Comedy,27474,3062
+518,Ribbons,9/22/2017,Indican Pictures,Thriller/Suspense,26872,2995
+519,30 Years of Garbage: The Ga…,7/28/2017,Indican Pictures,Documentary,26804,2988
+520,The Untamed,7/21/2017,Strand,Drama,25899,2887
+521,Wasted! The Story of Food W…,10/13/2017,Super LTD,Documentary,25865,2883
+522,The Edge of Seventeen,11/18/2016,STX Entertainment,Drama,24847,2770
+523,The Marseille Trilogy,12/30/2016,Janus Films,Drama,24787,2763
+524,The Departure,10/13/2017,Matson,Documentary,24661,2749
+525,Naples ‘44,11/29/2017,First Run Features,Documentary,24616,2744
+526,Saving Brinton,9/22/2017,Barn Owl,Documentary,24590,2741
+527,Jasmine,6/16/2017,Indican Pictures,Horror,24284,2707
+528,Simple Creature,7/28/2017,Indican Pictures,Thriller/Suspense,23918,2666
+529,For Ahkeem,10/13/2017,Vitagraph Films,Documentary,23136,2579
+530,Finding Oscar,4/14/2017,FilmRise,Documentary,23116,2577
+531,Grace of Jake,2/3/2017,Indican Pictures,Drama,23078,2572
+532,My Scientology Movie,3/10/2017,Magnolia Pictures,Documentary,22936,2556
+533,The Recall,6/2/2017,Freestyle Releasing,Horror,22233,2478
+534,Twenty-Two,9/8/2017,China Lion Film D…,Documentary,22222,2477
+535,The Transfiguration,4/7/2017,Strand,Drama,21926,2444
+536,Paradise Club,9/8/2017,Indican Pictures,Drama,21923,2444
+537,Bending the Arc,10/6/2017,Abramorama Films,Documentary,21906,2442
+538,The Passion of Joan of Arc,11/24/2017,Janus Films,Drama,21877,2438
+539,The Girl Without Hands,7/21/2017,GKIDS,Adventure,21787,2428
+540,Whisky Galore,5/12/2017,Arrow Releasing,Romantic Comedy,21551,2402
+541,Trophy,9/8/2017,The Orchard,Documentary,21439,2390
+542,Massacre on Aisle 12,1/27/2017,Indican Pictures,Comedy,21106,2352
+543,A Beginner’s Guide to Snuff,6/23/2017,Indican Pictures,Black Comedy,21031,2344
+544,Man Underground,7/14/2017,Indican Pictures,Drama,20907,2330
+545,All These Sleepless Nights,4/7/2017,The Orchard,Documentary,20762,2314
+546,The Blackcoat’s Daughter,3/31/2017,A24,Horror,20435,2278
+547,RV: Resurrected Victims,10/20/2017,Well Go USA,Thriller/Suspense,20371,2271
+548,Better Watch Out,10/6/2017,Well Go USA,Horror,20369,2270
+549,Glory,4/12/2017,Film Movement,Drama,19608,2185
+550,Carrie Pilby,3/31/2017,The Orchard,Comedy,18957,2113
+551,"Léon Morin, Priest",4/17/2009,,Drama,18869,2103
+552,Black Code,4/14/2017,Mongrel Media,Documentary,18846,2101
+553,The Man From Outer Space,9/8/2017,Indican Pictures,Drama,18709,2085
+554,Bobbi Jene,9/22/2017,Oscilloscope Pict…,Documentary,18579,2071
+555,All the Rage (Saved by Sarno),6/23/2017,Rumur,Documentary,18489,2061
+556,Burden,5/5/2017,Magnolia Pictures,Documentary,18440,2055
+557,Clash,8/25/2017,Kino Lorber,Drama,18215,2030
+558,Mansfield 66/67,10/27/2017,FilmBuff,Documentary,17930,1998
+559,The Last Shaman,5/12/2017,Abramorama Films,Documentary,17744,1978
+560,Bad Grandmas,11/3/2017,Parade Deck Films,Comedy,17688,1971
+561,Harmonium,6/16/2017,Film Movement,Drama,17191,1916
+562,Food Evolution,6/23/2017,Abramorama Films,Documentary,17181,1915
+563,The Queen of Katwe,9/23/2016,Walt Disney,Drama,17078,1903
+564,That Most Important Thing,7/14/2017,Rialto Pictures,Drama,16976,1892
+565,Racer and the Jailbird,5/4/2018,Neon,Drama,16429,1831
+566,Mission Control: The Unsung…,4/14/2017,Gravitas Ventures,Documentary,16405,1828
+567,Kills on Wheels,10/20/2017,Kino Lorber,Drama,15856,1767
+568,Contemporary Color,3/1/2017,Oscilloscope Pict…,Concert/Perfor…,15305,1706
+569,Shot! The Psycho-Spiritual …,4/7/2017,Magnolia Pictures,Documentary,15157,1689
+570,Rebels on Pointe,11/15/2017,Icarus Films,Documentary,15088,1682
+571,Paradise,10/6/2017,Film Movement,Drama,14873,1658
+572,Vince Giordano: There’s a F…,1/13/2017,First Run Features,Documentary,14807,1650
+573,The Farthest,8/11/2017,Abramorama Films,Documentary,14733,1642
+574,The Beatles: Eight Days a W…,9/16/2016,Abramorama Films,Documentary,14527,1619
+575,Antarctica: Ice and Sky,1/20/2017,Music Box Films,Documentary,14475,1613
+576,Time to Die,9/15/2017,Film Movement,Western,14278,1591
+577,Brotherhood of Blades 2,12/1/2017,Well Go USA,Action,14204,1583
+578,Brave New Jersey,8/4/2017,Gravitas Ventures,Comedy,14105,1572
+579,Abracadabra,9/15/2017,Sony Pictures,Comedy,13975,1558
+580,After Love,8/9/2017,Distrib Films,Drama,13621,1518
+581,Legend of the Naga Pearls,8/25/2017,Well Go USA,Action,13588,1514
+582,Trafficked,10/6/2017,Epic Pictures Group,Drama,13476,1502
+583,"Intent to Destroy: Death, D…",11/10/2017,Abramorama Films,Documentary,13194,1470
+584,Birdboy: The Forgotten Chil…,12/15/2017,GKIDS,Horror,13157,1466
+585,Taipei Story (1985),3/17/2017,Janus Films,Drama,12897,1437
+586,Junction 48,3/3/2017,The Orchard,Multiple Genres,12795,1426
+587,Heal,10/20/2017,Paladin,Documentary,12668,1412
+588,Song of Granite,11/15/2017,Oscilloscope Pict…,Drama,12408,1383
+589,The Magnificent Seven,9/23/2016,Sony Pictures,Western,12402,1383
+590,Heat and Dust,9/15/1983,Universal,Drama,12227,1363
+591,Seven Beauties,4/14/2017,Kino Lorber,Drama,11962,1333
+592,Porto,11/17/2017,Kino Lorber,Drama,11763,1311
+593,Staying Vertical,1/20/2017,Strand,Comedy,11747,1309
+594,Dead Awake,5/12/2017,FilmRise,Horror,11528,1285
+595,Sweet Virginia,11/17/2017,IFC Films,Thriller/Suspense,11452,1277
+596,Beside Bowie: The Mick Rons…,9/1/2017,Parade Deck Films,Documentary,11400,1270
+597,4 Days in France,8/4/2017,Cinema Guild,Drama,11373,1267
+598,Saigon Bodyguards,2/3/2017,CJ Entertainment,Action,11314,1261
+599,Ugetsu (1953) (Re-Release),3/3/2017,Janus Films,Drama,11198,1248
+600,Permanent,12/15/2017,Magnolia Pictures,Comedy,11197,1248
+601,Shadowman,12/1/2017,Film Movement,Documentary,11142,1242
+602,The Challenge,9/8/2017,Kino Lorber,Documentary,11043,1231
+603,Lovesong,2/17/2017,Strand,Drama,10545,1175
+604,Clarence,9/1/2017,Indican Pictures,Documentary,10495,1170
+605,In The Fade,12/27/2017,Magnolia Pictures,Drama,10455,1165
+606,Painted Woman,11/10/2017,Amor Media,Western,10298,1148
+607,The Sunshine Makers,1/20/2017,FilmRise,Documentary,10042,1119
+608,Red Trees,9/15/2017,Cohen Media Group,Documentary,10012,1116
+609,The Fiancé,11/11/2016,Indican Pictures,Horror,9866,1099
+610,The Lucky Man,12/21/2017,Indican Pictures,Action,9794,1091
+611,Frank Serpico,11/1/2017,IFC Films,Documentary,9711,1082
+612,Machines,8/9/2017,Kino Lorber,Documentary,9710,1082
+613,The Daughter,7/1/2016,Mongrel Media,Drama,9647,1075
+614,Pelle the Conqueror,12/21/1988,Miramax,Drama,9597,1069
+615,Harry & Snowman,9/30/2016,FilmRise,Documentary,9545,1064
+616,The Tribes of Palos Verdes,12/1/2017,IFC Films,Drama,9258,1032
+617,Amnesia,7/21/2017,Film Movement,Drama,8700,969
+618,Félicité,10/27/2017,Strand,Drama,8679,967
+619,Julian Schnabel: A Private …,5/5/2017,Cohen Media Group,Documentary,8679,967
+620,Remember the Goal,8/26/2016,Five & Two Pictures,Drama,8652,964
+621,We Are the Flesh,1/13/2017,Arrow Releasing,Horror,8438,940
+622,Natasha,4/28/2017,Menemsha Entertai…,Drama,8325,928
+623,Mr. Chibbs,5/3/2017,Abramorama Films,Documentary,8303,925
+624,Served Like a Girl,8/25/2017,Entertainment Stu…,Documentary,8290,924
+625,From Nowhere,2/17/2017,FilmRise,Drama,8109,904
+626,La Chinoise,10/12/2007,Koch Lorber Films,Black Comedy,7971,888
+627,Swept Away,4/14/2017,Kino Lorber,Romantic Comedy,7876,878
+628,The Ballad of Lefty Brown,12/15/2017,A24,Western,7856,875
+629,Ana-ta-han (1954) (Re-Release),2/3/2017,Kino Lorber,Drama,7785,867
+630,Maigret Sets a Trap,10/20/2017,Kino Lorber,Drama,7644,852
+631,The Wrong Light,7/14/2017,Cinema Guild,Documentary,7553,842
+632,Birthright: A War Story,7/14/2017,Abramorama Films,Documentary,7519,838
+633,Big Time,12/1/2017,Abramorama Films,Documentary,7347,819
+634,The Jazz Funeral,3/10/2017,Indican Pictures,Adventure,7103,791
+635,Miss Sloane,11/25/2016,EuropaCorp,Drama,6969,776
+636,Spices of Liberty,10/24/2016,Hannover House,Drama,6838,762
+637,Harry Benson: Shoot First,12/9/2016,Magnolia Pictures,Documentary,6694,746
+638,Footnotes,7/14/2017,Monument Releasing,Musical,6660,742
+639,The Pathological Optimist,9/29/2017,Film Arcade,Documentary,6522,727
+640,Last Rampage,9/22/2017,Epic Pictures Group,Thriller/Suspense,6294,701
+641,Chosen,12/16/2016,Hannover House,Drama,6226,694
+642,The Fuzz,7/21/2017,Indican Pictures,Thriller/Suspense,6176,688
+643,The Freedom to Marry,3/3/2017,Argot Pictures,Documentary,6142,684
+644,The Sacrifice,11/7/2014,Kino Lorber,Drama,6127,683
+645,Arise from Darkness,1/5/2017,Indican Pictures,Horror,6112,681
+646,Ichi The Killer: Definitive…,11/10/2017,Well Go USA,Horror,5986,667
+647,Suntan,3/10/2017,Strand,Romantic Comedy,5954,663
+648,Starless Dreams,1/20/2017,Cinema Guild,Documentary,5937,661
+649,"Kill Me, Deadly",4/1/2016,Indican Pictures,Multiple Genres,5936,661
+650,The Work,10/25/2017,The Orchard,Documentary,5853,652
+651,The Vault,9/1/2017,FilmRise,Thriller/Suspense,5728,638
+652,Trespass Against Us,1/20/2017,A24,Action,5711,636
+653,The Ardennes,1/6/2017,Film Movement,Thriller/Suspense,5638,628
+654,No culpes al karma de lo qu…,3/24/2017,,Comedy,5614,626
+655,Gold,12/1/2017,Sony Pictures,Adventure,5539,618
+656,Icaros: A Vision,5/19/2017,Factory 25,Drama,5510,614
+657,Reset,1/13/2017,FilmRise,Documentary,5454,608
+658,Scum,6/16/2017,Kino Lorber,Thriller/Suspense,5405,602
+659,Company Town,9/8/2017,First Run Features,Documentary,4934,550
+660,Best Worst Thing That Ever …,11/18/2016,Abramorama Films,Documentary,4753,529
+661,Shot,9/22/2017,Paladin,Drama,4701,524
+662,Night School,6/9/2017,Oscilloscope Pict…,Documentary,4663,519
+663,I Love You Both,6/9/2017,Magnolia Pictures,Comedy,4661,519
+664,A Boy Called Po,9/1/2017,Freestyle Releasing,Comedy,4550,507
+665,Vengeance: A Love Story,9/15/2017,FilmRise,Action,4526,504
+666,The Pulitzer at 100,7/21/2017,First Run Features,Documentary,4489,500
+667,German Concentration Camps …,1/6/2017,First Run Features,Documentary,4468,498
+668,Bad Lucky Goat,10/13/2017,Film Movement,Drama,4253,474
+669,"My Father, Die",1/20/2017,FilmRise,Action,4252,474
+670,Badsville,12/1/2017,Epic Pictures Group,Drama,4153,462
+671,Mostly Sunny,1/13/2017,Mongrel Media,Documentary,4046,451
+672,Swim Team,7/7/2017,Argot Pictures,Documentary,4024,448
+673,Train to Busan,7/22/2016,Well Go USA,Horror,3982,443
+674,The Woman Who Left,5/19/2017,Kino Lorber,Drama,3906,435
+675,Soul on a String,5/19/2017,Film Movement,Drama,3669,409
+676,Shakespeare Wallah,11/10/2017,Cohen Media Group,Drama,3577,398
+677,Emily,1/27/2017,Hibernation Films,Drama,3547,395
+678,Mifune: The Last Samurai,11/25/2016,Strand,Documentary,3531,393
+679,Who’s Crazy,3/10/2017,Kino Lorber,Drama,3497,389
+680,Bugs,9/27/2017,Kino Lorber,Documentary,3423,381
+681,Speed Sisters,1/27/2017,First Run Features,Documentary,3423,381
+682,A Kind of Loving,4/7/2017,Rialto Pictures,Drama,3278,365
+683,The Bad Kids,12/16/2016,FilmRise,Documentary,3249,362
+684,Heal the Living,4/14/2017,Cohen Media Group,Drama,3176,354
+685,Tower,10/12/2016,Kino Lorber,Drama,3173,353
+686,The Levelling,3/24/2017,Monterey Media,Drama,3040,338
+687,The Skyjacker’s Tale,6/30/2017,Strand,Documentary,3009,335
+688,Dalida,9/1/2017,Under the Milky Way,Drama,2917,325
+689,New World Order,9/23/2016,Indican Pictures,Action,2860,318
+690,1898. Los últimos de Filipi…,3/3/2017,,Drama,2848,318
+691,I Dream in Another Language,7/28/2017,FilmRise,Drama,2739,305
+692,Santoalla,7/19/2017,Oscilloscope Pict…,Documentary,2684,299
+693,Take Me,5/5/2017,The Orchard,Comedy,2583,287
+694,Apprentice,3/3/2017,Film Movement,Drama,2578,287
+695,Miles,6/9/2017,Entertainment Stu…,Drama,2537,282
+696,Shut In,11/11/2016,EuropaCorp,Thriller/Suspense,2497,278
+697,Red Christmas,8/25/2017,Artsploitation,Horror,2250,250
+698,Thrill Ride,12/1/2017,Gravitas Ventures,Adventure,2226,248
+699,Behind the White Glasses: P…,3/4/2016,Parade Deck Films,Documentary,2223,247
+700,Dream Boat,11/3/2017,Strand,Documentary,2199,245
+701,Dayveon,9/13/2017,FilmRise,Drama,2077,231
+702,The Ghoul,8/4/2017,Cartilage Films,Thriller/Suspense,2032,226
+703,Accidental Courtesy: Daryl …,1/6/2017,First Run Features,Documentary,1940,216
+704,Detour,1/20/2017,Magnolia Pictures,Thriller/Suspense,1788,199
+705,The Romans,5/27/2016,Indican Pictures,Drama,1689,188
+706,The Greasy Strangler,10/7/2016,FilmRise,Thriller/Suspense,1650,183
+707,Never,8/19/2016,Indican Pictures,Drama,1621,180
+708,Do Not Resist,9/30/2016,Vanish Films,Documentary,1596,177
+709,The Forest for the Trees,1/27/2017,Film Movement,Drama,1410,157
+710,The Battle of Algiers,1/9/2004,Rialto Pictures,Drama,1319,147
+711,The Ghosts of Johnson Woods,12/2/2016,Driving With Our …,Horror,1255,139
+712,It’s Not Yet Dark,8/4/2017,FilmRise,Documentary,1227,136
+713,A Different American Dream,1/6/2017,First Run Features,Documentary,1172,130
+714,Joy of Learning,7/28/2017,Kino Lorber,Drama,1149,128
+715,The Lion in Winter,10/30/1968,,Drama,1025,114
+716,Christine,10/14/2016,The Orchard,Drama,995,110
+717,The Penguin Counters,4/21/2017,First Run Features,Documentary,976,108
+718,Believe,12/2/2016,Smith Global Media,Drama,975,108
+719,The Black Dove,8/12/2016,Indican Pictures,Comedy,881,98
+720,Extraordinary Ordinary People,9/15/2017,First Run Features,Documentary,880,98
+721,I Am not Madame Bovary,11/18/2016,Well Go USA,Drama,872,97
+722,The Witness,6/3/2016,FilmRise,Documentary,778,86
+723,Amityville: The Awakening,10/28/2017,Weinstein Co.,Horror,742,83
+724,This Last Lonely Place,8/12/2016,Indican Pictures,Thriller/Suspense,514,57
+725,"Love, Sweat & Tears",3/8/2017,Kino Lorber,Documentary,512,57
+726,The Helsings,5/26/2017,Self Distributed,Drama,478,53
+727,Seed: The Untold Story,8/22/2016,Collective Eye,Documentary,442,49
+728,0.098611111,6/30/2017,Magnolia Pictures,Thriller/Suspense,422,47
+729,Mifune,2/25/2000,Sony Pictures Cla…,Drama,398,44
+730,Gridiron Heroes,4/15/2016,Indican Pictures,Documentary,250,27
+731,National Bird,11/11/2016,FilmRise,Documentary,186,20
+732,Nightlights,8/15/2014,Indican Pictures,Drama,159,17
+733,The Student,4/14/2017,Under the Milky Way,Drama,138,15
